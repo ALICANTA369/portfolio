@@ -2,14 +2,14 @@
 ### Technical Skills: Python, Pyspark, SQL, Databricks, DataFActory, Azure, AWS
 
 ## Education
-- Ingeniero de Sistemas
-- Certificado de Data Engineer Azure, Databrcks
-- Architecture Certification AWS
+- Sistem Engineer
+- Azure & Databricks Data Engineer Certification 
+- AWS Certification Architecture
 
 ## Work Experience
 - Indra Corporation for banking
 - Everis Corporation for Banking
-- MDP Consulting
+- MDP Consulting for Educations and Insurance
 
 
 
